@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay 
 - 👀 Full stack dev
-- 🌱 I’m currently mastering React and Typescript
+- 🌱 I’m currently mastering javascript,React and Typescript
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
 - This is my portfolio https://akshayportfoloio98.netlify.app/ .
 
