@@ -3,7 +3,14 @@
 - 🌱 I’m currently mastering javascript,React and Typescript
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaay9&hide=stars)
+
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaay9&count_private=true&hide=stars&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/akshaay9/github-readme-stats)
+
+
 
 
 
