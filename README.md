@@ -5,7 +5,7 @@
 
 
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaay9&count_private=true&hide=stars&show_icons=true)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaay9&count_private=true&hide=stars,issues&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/akshaay9/github-readme-stats)
