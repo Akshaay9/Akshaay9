@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay 
-- 👀 Full stack dev
+- 👀 FrontEnd Dev
 - 🌱 I’m currently mastering javascript,React and Typescript
 - View my portfolio 👉 https://akshaytech.netlify.app/
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
