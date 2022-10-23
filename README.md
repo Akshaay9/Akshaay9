@@ -2,7 +2,6 @@
 - 👀 FrontEnd Dev
 - 🌱 I’m currently mastering javascript,React and Typescript
 - View my portfolio 👉 https://akshaytech.netlify.app/
-- view my resume 👉 https://drive.google.com/file/d/1yWRkI2ygea5JdRVTgvT_iwZN4KRmW-L8/view
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
 - Connect with me here 👇
 <ul>
