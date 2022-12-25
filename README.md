@@ -2,7 +2,7 @@
 - 👀 FrontEnd Dev
 - 🌱 I’m currently mastering javascript,React and Typescript
 - View my portfolio 👉 https://akshaytech.netlify.app/
-- My repl where I play with javascript and Nodejs https://replit.com/@akshay9898
+- My repl where I play with javascript and Nodejs https://replit.com/@AkshayNair5
 - My CodeSandBox where i experiment React challenges : https://codesandbox.io/dashboard/sandboxes/reactPractises?workspace=3d644ef0-83cb-43fb-bfb4-8109ce1d2d03
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
 - Connect with me here 👇
