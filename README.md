@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay 
 - 👀 FrontEnd Dev
 - 🌱 I’m currently mastering javascript,React and Typescript
-- View my portfolio 👉 https://akshaytech.netlify.app/
+- Social media handles 👉 https://linktr.ee/Akshay.js
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
 - Connect with me here 👇
 <ul>
