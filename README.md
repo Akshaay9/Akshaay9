@@ -14,4 +14,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/akshaay9/github-readme-stats)
+  
+  ![](https://komarev.com/ghpvc/?username=your-github-akshaay9&style=for-the-badge&color=blue)
 
