@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay 
-- 👀 FrontEnd Dev
+- 👀 FrontEnd Dev 2 @jiocinemadev
 - 🌱 I’m currently mastering javascript,React and Typescript
 - Social media handles 👉 https://linktr.ee/Akshay.js
 - 😍 You can reach out to me on nair.akshay98@gmail.com.
