@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Akshay.
-- 🚀 Frontend Developer 2 @JioCinema.
+- 🚀 SDE 2 @JioHotstar.
 - 🎯 Passionate about crafting scalable and performant user interfaces.
 - 🛠️ Currently deep-diving into JavaScript, React, and TypeScript.
 - 📬 Feel free to connect or reach out: nair.akshay98@gmail.com.
