@@ -1,9 +1,5 @@
 - 👋 Hey, I’m Akshay.
 - 🚀 SDE 2 @JioHotstar.
-- 🎯 Passionate about crafting scalable and performant user interfaces.
-- 🛠️ Currently deep-diving into JavaScript, React, and TypeScript.
-- 📬 Feel free to connect or reach out: nair.akshay98@gmail.com.
-- 🔗 All my links in one place: [Link Tree](https://linktr.ee/Akshay.js)
 
 
   ![snake gif](https://github.com/Akshaay9/Akshaay9/blob/output/github-snake-dark.svg)
